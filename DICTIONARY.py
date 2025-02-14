@@ -1,0 +1,35 @@
+# list manipulation - dictionary
+DATA = {
+        "ALGORITHM" : "a set of instructions to solve a problem",
+        "BLUEPRINT" : "a detailed plan or diagram",
+        "CIRCUIT" : "a path through which electric current flows",
+        "DATABASE" : "a collection of organized data",
+        "EFFICIENCY" : "the ratio of output to input",
+        "FEEDBACK" : "information about a system's performance",
+        "GENERATOR" : "a machine that converts energy into electricity",
+        "HARDWARE" : "physical components of a computer system",
+        "INTERFACE" : "a connection between two systems",
+        "JUNCTION" : "a point where two or more conductors meet",
+        "KINEMATICS" : "the study of motion",
+        "LOAD" : "a force or weight applied to a system",
+        "MICROCHIP" : "a small electronic device",
+        "NETWORK" : "a collection of interconnected devices",
+        "OPTIMIZATION" : "the process of improving a system's performance",
+        "PISTON" : "a moving part in an engine",
+        "QUEUE" : "a line of items waiting to be processed",
+        "ROBOTICS" : "the study of robots and their applications",
+        "SENSOR" : "a device that detects and measures physical parameters",
+        "SIMULATION" : "a model of a real-world system",
+        "SOFTWARE" : "programs and operating systems",
+        "TURBINE" : "a machine that converts energy into rotational motion",
+        "VALVE" : "a device that controls fluid flow",
+        "WATT" : "a unit of electrical power",
+        "X-AXIS" : "a coordinate axis in a graphical representation",
+        "YIELD" : "the amount of product obtained from a process",
+        "ACTUATOR" : "a device that converts energy into motion",
+        "BEARING" : "a device that supports moving parts",
+        "CATALYST" : "a substance that speeds up a chemical reaction",
+        "WATER" : "a clear, colorless liquid"
+        }
+a = input (" SEARCH ")
+print(DATA [a])
